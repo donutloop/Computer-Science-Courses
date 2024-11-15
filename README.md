@@ -11,5 +11,6 @@
 * [MIT 18.100A Real Analysis, Fall 2020 (Full course)](https://www.youtube.com/watch?v=LY7YmuDbuW0&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw)
 * [Stanford CS229 Machine Learning (Full course)](https://www.youtube.com/watch?v=Bl4Feh_Mjvo&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
 * [MIT 18.650 Statistics for Applications (Full course)](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+* [MIT 6.0002 Introduction to Computational Thinking and Data Science](https://www.youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 
 
